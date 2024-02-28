@@ -125,6 +125,7 @@ colorscript random
 source pgadmin4/bin/activate
 
 source ~/.zsh-aliases/exa.zsh
+source ~/.zsh-aliases/kitty.zsh
 source ~/.zsh-aliases/git.zsh
 source ~/.zsh-aliases/nix.zsh
 source ~/.zsh-aliases/users.zsh
