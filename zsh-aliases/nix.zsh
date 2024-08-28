@@ -8,7 +8,7 @@ alias da='paru -S'
 alias das='paru -Ss'
 
 # System Commands aliases
-alias clean='sudo pacman -Sc'
+alias clean='sh ~/.zsh-aliases/cleanup.zsh'
 alias remove='sudo pacman -Rcns'
 
 
